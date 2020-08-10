@@ -1,0 +1,28 @@
+{
+  "name": "tutorial-connect",
+  "version": "1.0.0",
+  "description": "Website that allows developers to post links to tutorials they found helpful.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "start build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dglassick/tutorial-connect.git"
+  },
+  "author": "Derek Glassick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dglassick/tutorial-connect/issues"
+  },
+  "homepage": "https://github.com/dglassick/tutorial-connect#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.5.1",
+    "nprogress": "^0.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
