@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dglassick/tutorial-connect#readme",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
+    "axios": "^0.19.2",
     "next": "^9.5.1",
     "nprogress": "^0.2.0",
     "react": "^16.13.1",
